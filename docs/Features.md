@@ -32,7 +32,7 @@
    - CapeSync
      - Sync capes for all vicoré users
    - ElytraAura
-     - 
+     - Chases and attacks targets while flying with elytras
    - DiscordRPC
      - Shows Vicoré as your status in discord
    - EntityRenderers
