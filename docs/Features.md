@@ -31,16 +31,21 @@
      - Changes how totem pop particles are rendered.
    - CapeSync
      - Sync capes for all vicoré users
+   - ElytraAura
+     - 
    - DiscordRPC
      - Shows Vicoré as your status in discord
    - EntityRenderers
      - Changes how entities are rendered  
    - MaceTotemFail
-     - Makes the Mace even more powerful.
+     - Makes the Mace even more powerful
+   - TotemStealer
+     - Steal totems when you open containers 
    - UltraAura
      - Aura with infinite reach, closest player to the crosshair will be targetted
    - UltraTotem
      - Auto totem but better :)
+   
   
   ---
 ### Gui Themes
