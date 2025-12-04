@@ -27,25 +27,38 @@
 ### Modules
    - Antipop
      - Prevents you from touching ground (to avoid taking fall damage)
+   - BasePlace
+     - Places obsidian for crystal placements (Requires GrimAirPlace module active) 
    - BetterPops
-     - Changes how totem pop particles are rendered.
+     - Changes how totem pop particles are rendered
    - CapeSync
      - Sync capes for all vicoré users
-   - ElytraAura
-     - Chases and attacks targets while flying with elytras
    - DiscordRPC
      - Shows Vicoré as your status in discord
+   - ElytraAura
+     - Chases and attacks players while flying with Elytras
    - EntityRenderers
-     - Changes how entities are rendered  
+     - Changes how entities are rendered
+   - GrimAirPlace
+     - Places a block where your crosshair is pointing at bypassing GrimAC
+   - IceFlooder
+     - Places ice under your feet, useful for flooding areas 
    - MaceTotemFail
-     - Makes the Mace even more powerful
+     - Causes TotemFail by exploiting the mace
    - TotemStealer
-     - Steal totems when you open containers 
+     - Steals totems from containers  
+   - SpongeAura
+     - Places sponges around enemy players using the GrimAirPlace   
    - UltraAura
      - Aura with infinite reach, closest player to the crosshair will be targetted
+   - UltraCrystal
+     - Attacks entities with end crystals 
+   - UltraMine
+     - Automatically mines blocks from players
+   - UltraPhase
+     - Places blocks in order to phase 
    - UltraTotem
      - Auto totem but better :)
-   
   
   ---
 ### Gui Themes
