@@ -5,7 +5,20 @@
 ![Vicore banner](https://github.com/user-attachments/assets/f2388dd2-ef5d-45f4-af3b-e95ad90f35bd)
 
 ---
+## IMPORTANTE
+  Debido a problemas internos, ocurridos, el servidor original de Vicoré Development ha sido eliminado, estén atentos a futuras actualizaciones que no tardaran en llegar.
+  Como medida preventiva, estaremos poniendo los enlaces a continuación.
+  
+## IMPORTANT
+  Due to internal issues, the original Vicoré Development server has been removed. Please stay tuned for upcoming updates, which will arrive soon.
+  As a preventive measure, we will be providing the links below.
 
+  Links/Enlaces:
+  
+  - [1.21.1-3](https://work.ink/1ZUu/CFinalV1.21.1)
+  - [1.21.4](https://work.ink/1ZUu/VicoreAddonFinal)
+  - [1.21.6-8](https://work.ink/1ZUu/vicor-checkpoint-final-1216-8) 
+  
 ## Index
 
 - [TOS](#tos)
