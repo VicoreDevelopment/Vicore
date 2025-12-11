@@ -42,7 +42,7 @@ You can see the full features list [here](docs/Features.md)
 
 Follow us on our social media:
 
-- [Discord](https://discord.gg/9Qf5KYSUuj)
+- [Discord]
 - [YouTube](https://www.youtube.com/@VicoreDevelopment)
 - [TikTok](https://www.tiktok.com/@vicore_develpoment)
 - [Instagram](https://www.instagram.com/vicore_development)
@@ -55,7 +55,7 @@ Follow us on our social media:
 
 If you have any trouble or suggestion, dont forget to contact us:
 
-- Discord: [Vicoré Development](https://discord.gg/9Qf5KYSUuj)
+- Discord:  ...
 ---
 
 ![Vicore Banner2](https://github.com/user-attachments/assets/3a93deef-d8c1-458b-b55f-6c3721b1cc31)
