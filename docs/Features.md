@@ -25,6 +25,8 @@
 ---
 
 ### Modules
+   - AntiMine
+     - Prevents some AutoMines to break your surround
    - Antipop
      - Prevents you from touching ground (to avoid taking fall damage)
    - BasePlace
@@ -45,8 +47,6 @@
      - Places ice under your feet, useful for flooding areas 
    - MaceTotemFail
      - Causes TotemFail by exploiting the mace
-   - TotemStealer
-     - Steals totems from containers  
    - SpongeAura
      - Places sponges around enemy players using the GrimAirPlace   
    - UltraAura
@@ -56,7 +56,11 @@
    - UltraMine
      - Automatically mines blocks from players
    - UltraPhase
-     - Places blocks in order to phase 
+     - Places blocks in order to phase
+   - UltraRegear
+     - Grabs your selected items from containers or shulkers automatically
+   - UltraSurround
+     - Surrounds your feet with blocks, AirPlaces with GrimAirPlace ON   
    - UltraTotem
      - Auto totem but better :)
   
@@ -75,10 +79,11 @@
   - Logo
   - Totemsinfo
   - Watermark
+  - VicoWaifu
 
   ---
 ## Showcase
-[![Vicoré Addon Showcase](https://cdn.discordapp.com/attachments/642769390869151774/1424520895698964621/VicoreShowcaseTumbnail.png?ex=68e43ff7&is=68e2ee77&hm=46e821ba89951762ca26fb45fa1c39f7427f7806afa14812e641ae3b2e0e9316&](https://i.ytimg.com/vi/LQRKfj532qM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCi-qTmUNrVB8UnMejTRrTpl6BmVA))](https://www.youtube.com/watch?v=LQRKfj532qM)
+[![Vicoré Addon Showcase](/images/showcase.avif)](https://www.youtube.com/watch?v=LQRKfj532qM)
 
 - [Showcase video](https://www.youtube.com/watch?v=LQRKfj532qM)
 
