@@ -29,8 +29,6 @@
      - Prevents some AutoMines to break your surround
    - Antipop
      - Prevents you from touching ground (to avoid taking fall damage)
-   - ArrowKiller
-     - Teleports arrows to the target
    - BasePlace
      - Places obsidian for crystal placements (Requires GrimAirPlace module active) 
    - BetterPops
@@ -46,11 +44,15 @@
    - GrimAirPlace
      - Places a block where your crosshair is pointing at bypassing GrimAC
    - IceFlooder
-     - Places ice under your feet, useful for flooding areas 
-   - InventoryAssist
-     - Automatically organizes your inventory based on a previously saved preset 
+     - Places ice under your feet, useful for flooding areas
+   - IventoryAssist
+     - Automatically organizes your inventory basesd on a previously saved preset
+   - IventoryDupe
+     - Auto inventory dupe. Look down. throw an item, and magic :)
    - MaceTotemFail
      - Causes TotemFail by exploiting the mace
+   - PlayerTP
+     - Teleports to a player, even inside a cage
    - SpongeAura
      - Places sponges around enemy players using the GrimAirPlace   
    - UltraAura
